@@ -1,0 +1,8 @@
+./mazegame/ArrayGrid.java:12: warning: [unchecked] unchecked cast
+		item = (T[][]) new Object[numRows][numCols];
+		               ^
+  required: T[][]
+  found:    Object[][]
+  where T is a type-variable:
+    T extends Object declared in class ArrayGrid
+1 warning

@@ -1,0 +1,954 @@
+Java Automatic Marker 0.1.0
+
+********************************************************************************
+*                           Tests results for WallTest                         *
+********************************************************************************
+Test case for getSymbol() returning the correct value with multiple Walls 
+failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        symbols shoud not be static
+ expected:<65> but was:<88>
+
+Test case for getColumn() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value with multiple Walls 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getColumn() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getColumn is not declared or not public
+
+
+********************************************************************************
+*                      Tests results for VisitedHallwayTest                    *
+********************************************************************************
+Test case for getSymbol() returning the correct value with multiple Walls 
+failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        symbols shoud not be static
+ expected:<65> but was:<46>
+
+Test case for getColumn() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value with multiple 
+VisitedHallways failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getColumn() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getColumn is not declared or not public
+
+
+********************************************************************************
+*                     Tests results for UnvisitedHallwayTest                   *
+********************************************************************************
+Test case for getSymbol() returning the correct value with multiple 
+UnvisitedHallways failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        symbols shoud not be static
+ expected:<65> but was:<32>
+
+Test case for getColumn() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value with multiple 
+UnvisitedHallways failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getColumn() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getColumn is not declared or not public
+
+
+********************************************************************************
+*                          Tests results for BananaTest                        *
+********************************************************************************
+Test case for getValue() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getValue() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getValue() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getValue() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value with multiple Bananas 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getValue() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getValue is not declared or not public
+
+
+Test case for getColumn() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getColumn() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getColumn is not declared or not public
+
+
+Test case for getValue() returning the correct value with multiple Bananas 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+********************************************************************************
+*                          Tests results for MonkeyTest                        *
+********************************************************************************
+Test case for getColumn() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for move() moves the banana correctly failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value with multiple Monkeys 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for move() not changing the return value of getSymbol failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for move() only moving one Monkey at a time failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for that Monkey implements Moveable failed because of an 
+AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        Moveable should implement the Monkey interface
+
+
+Test case for getColumn() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getColumn() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getColumn is not declared or not public
+
+
+********************************************************************************
+*                       Tests results for MobileBananaTest                     *
+********************************************************************************
+Test case for getValue() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getSymbol() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getValue() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getValue() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getValue() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for move() moves the banana correctly failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the variable row exists and is declared correctly failed because 
+of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        value is not protected
+
+
+Test case for getRow() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() returning the correct value with multiple 
+MobileBananas failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for toString() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getColumn() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getRow() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for move() only moving one MobileBanana at a time failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getSymbol() not changing the return value of getValue() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getValue() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getValue is not declared or not public
+
+
+Test case for that MobileBanana implements Moveable failed because of an 
+AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        Moveable should implement the IWaitList interface
+
+
+Test case for getColumn() returning the correct value failed because of a 
+NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for getColumn() not changing the return value of getRow() failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the method getColumn() failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        getColumnumn is not declared or not public
+
+
+Test case for getValue() returning the correct value with multiple 
+MobileBananas failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+********************************************************************************
+*                        Tests results for ArrayGridTest                       *
+********************************************************************************
+Test case for method Grid.equals failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        An ArrayGrid should be equal to an identical ArrayGrid
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for method Grid.equals failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        An ArrayGrid should be equal to iteslf
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for method Grid.equals failed because of an AssertionError.
+    Why do I have an AssertionError?
+        Your function/method returned the wrong value or had an unexpected 
+        side-effect. For example, it may have modified a value it should not 
+        have.
+    Details:
+        An ArrayGrid should be equal to an identical ArrayGrid
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the setCell(int, int, T) and getCell(int, int) methods failed 
+because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for methods setCell(int, int, T) and getCell(int, int) failed because 
+of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+********************************************************************************
+*                         Tests results for MazeGameTest                       *
+********************************************************************************
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of a 
+MobileBanana failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of an 
+UnvisitedHallway failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of player1 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of player2 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of a Wall 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of a 
+VisitedHallway failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the get(int, int) method called with the location of a Banana 
+failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+Test case for the move(char) method failed because of a NoSuchMethodError.
+    Why do I have a NoSuchMethodError?
+        Your program includes a call to a non-existent method, is missing a 
+        method, orone of the expected methods was not defined (possibly due to 
+        an incorrectmethod signature).
+
+
+********************************************************************************
+*                        SUMMARY @ 2014/11/06 17:13:14                         *
+********************************************************************************
+    Tests passed: 192
+    Tests run: 323
